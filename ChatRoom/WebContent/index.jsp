@@ -8,7 +8,7 @@
 </head>
 <body>
 	<form>
-		ID：:<input type="text" id="id"/><br>
+		ID：<input type="text" id="id"/><br>
 		パスワード：<input type="password" id="password"/><br>
 		<input type="submit" value="ログイン">
 	</form>
