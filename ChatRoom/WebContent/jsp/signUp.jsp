@@ -7,6 +7,11 @@
 <title>新規登録</title>
 </head>
 <body>
-
+	<form>
+		ユーザーID：<input type="text"><br> 
+		パスワード：<input type="password"><br> 
+		パスワード(再)：<input type="password"><br>
+		<input type ="submit" value="登録">
+	</form>
 </body>
 </html>
